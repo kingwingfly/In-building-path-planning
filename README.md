@@ -1,2 +1,2 @@
-# In-building-path-planning
-A python GUI program. Using CAD-like operation. And A* for path planning.
+这是一个路径规划程序，
+在平面图上绘制障碍后，利用A*算法求得最短路径。
